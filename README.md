@@ -34,3 +34,9 @@ This repository contains the complete code for building a semantic book recommen
 📂 Data & API Setup
 - To create your vector database, set up a .env file in the root directory containing your OpenAI API key or use HuggingFace if want to use the free models.
 - Download the books dataset from Kaggle (instructions are included in the repo).
+
+- 
+## 📌 Final View: Book Recommendations Dashboard  
+Below is a preview of the book recommender interface in action:  
+
+![Dashboard Preview](dashboard_preview.png)
